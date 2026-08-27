@@ -48,4 +48,4 @@ Place screenshots inside the `images/` folder with the following names:
 
 **K. James Bond**
 
-Final Year B.Tech Biotechnology, IIT Madras
+ IIT Madras
