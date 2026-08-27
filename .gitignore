@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+env/
+.venv/
+creditcard.csv
+.vscode/
+.DS_Store
+*.log
+*.ckpt
+*.h5
+*.pb
+.env
